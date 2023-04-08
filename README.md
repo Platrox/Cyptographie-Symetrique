@@ -3,7 +3,7 @@ Si l'on parle ici de cryptographie symétrique, c'est que la même clé k est ut
 
 Chiffrement de César :
 
-• Vous pouvez ajouter des caractères à la variable "alphabet", cela ne modifiera pas l'éfficacité du code.
+• Vous pouvez ajouter des caractères à la variable "alphabet", cela ne modifiera pas l'efficacité du code.
 
 • Les messages m et s seront des chaînes de caractères n'utilisant que des majuscules sans accents.
 
