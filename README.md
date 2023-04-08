@@ -1,7 +1,7 @@
 # Cryptographie-Symetrique
 Si l'on parle ici de cryptographie symétrique, c'est que la même clé k est utilisée pour le chiffrement et le déchiffrement.
 
-Chiffrement de César :
+**Chiffrement de César :**
 
 • Vous pouvez ajouter des caractères à la variable "alphabet", cela ne modifiera pas l'efficacité du code.
 
@@ -9,7 +9,7 @@ Chiffrement de César :
 
 • Chiffre de César. Il s'agit de décaler de k rangs les lettres du message dans l'alphabet (avec reprise à A si on dépasse Z, bien sûr). La clé de chiffrement et de déchiffrement est le nombre de rangs de décalage k.
 
-Chiffrage XOR :
+**Chiffrage XOR :**
 
 • L'opérateur XOR ("ou exclusif") a la particularité d'être réversible, et d'être une des briques de base de l'Unité Arithmétique et Logique d'un ordinateur, ce qui lui donne une pertinence certaine dans le cadre qui nous occupe.
 
